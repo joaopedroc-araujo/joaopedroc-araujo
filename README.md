@@ -19,6 +19,7 @@ Minha jornada começou nas Humanas (Turismo) e hoje se aprofunda na Engenharia d
 </p>
 
 🌱 O que estou fazendo agora:
+<br>
 🔭 Atualmente estou aprimorando minhas habilidades em arquitetura serverless e práticas de IaC (Infraestrutura como Código).
 
 🚀 Dedicando tempo ao meu projeto pessoal: um CMS open-source com Next.js e NestJS para ajudar ONGs de adoção de animais.
